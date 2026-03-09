@@ -1,50 +1,38 @@
-# 👋 Olá, eu sou Gabriel Machado!
+# 👋 Hi, I'm Gabriel Machado!
 
-💻 Estudante de programação compartilhando minha jornada na tecnologia  
-📚 Atualmente aprendendo **Java e desenvolvimento de software**  
-🚀 Interessado em **programação, tecnologia e desenvolvimento backend**  
-🌱 Sempre aprendendo novas tecnologias e melhorando minhas habilidades  
+👨‍💻 Programming student sharing my journey and learnings in tech<br/>
+📚 Currently studying **Software Development**<br/>
+🌱 Learning about **Java, programming logic and software development**<br/>
+🚀 Building projects and improving my coding skills<br/>
+💭 Interested in **backend development and technology**<br/>
 
----
+<!-- GitHub stats -->
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&theme=tokyonight&hide_border=false&layout=compact)
-
----
+![](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO\&theme=radical\&hide_border=false\&include_all_commits=true\&count_private=true)<br/>
 
 # 💻 Tech Stack
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<!-- Programming Languages -->
 
----
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
 
-# 📚 Atualmente estudando
+<!-- Web -->
 
-- ☕ Java
-- 🧠 Lógica de programação
-- 🗄️ Estrutura de dados
-- 💻 Desenvolvimento de software
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
 
----
+# 📊 Most Used Languages
 
-# 🚀 Objetivos
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO\&theme=radical\&hide_border=false\&layout=compact)
 
-✔ Melhorar minhas habilidades em **Java**  
-✔ Criar projetos e compartilhar no GitHub  
-✔ Aprender **backend e banco de dados**
+# 🚀 Goals
 
----
+* Improve my **Java** skills
+* Build more programming projects
+* Learn **backend development**
+* Share my projects on GitHub
 
-# 📫 Contato
-
-💼 LinkedIn: (coloque aqui quando criar)  
-📧 Email: (opcional)
-
----
-
-⭐ Sempre aprendendo e evoluindo na programação.
+⭐ Always learning and improving as a developer.
