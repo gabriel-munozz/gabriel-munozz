@@ -1,35 +1,50 @@
-# 👋 Olá, eu sou Gabriel Machado
+# 👋 Olá, eu sou Gabriel Machado!
 
-💻 Estudante de programação  
-📚 Atualmente aprendendo **Java**  
-🚀 Interessado em desenvolvimento de software e tecnologia  
-
----
-
-## 🧠 Linguagens que estou aprendendo
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="40" width="50" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-
-  <img align="center" alt="HTML" height="40" width="50" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-
-  <img align="center" alt="CSS" height="40" width="50" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</div>
+💻 Estudante de programação compartilhando minha jornada na tecnologia  
+📚 Atualmente aprendendo **Java e desenvolvimento de software**  
+🚀 Interessado em **programação, tecnologia e desenvolvimento backend**  
+🌱 Sempre aprendendo novas tecnologias e melhorando minhas habilidades  
 
 ---
 
-## 📊 Estatísticas do GitHub
+# 📊 GitHub Stats
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
-## 📫 Contato
+# 💻 Tech Stack
 
-📧 Email: seuemail@email.com  
-💼 LinkedIn: https://linkedin.com/in/seuusuario
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+# 📚 Atualmente estudando
+
+- ☕ Java
+- 🧠 Lógica de programação
+- 🗄️ Estrutura de dados
+- 💻 Desenvolvimento de software
+
+---
+
+# 🚀 Objetivos
+
+✔ Melhorar minhas habilidades em **Java**  
+✔ Criar projetos e compartilhar no GitHub  
+✔ Aprender **backend e banco de dados**
+
+---
+
+# 📫 Contato
+
+💼 LinkedIn: (coloque aqui quando criar)  
+📧 Email: (opcional)
+
+---
+
+⭐ Sempre aprendendo e evoluindo na programação.
